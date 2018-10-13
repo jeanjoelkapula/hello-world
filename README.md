@@ -1,2 +1,3 @@
 # hello-world
-For tutorial purposes
+Hi humans,
+Learning about github for my team
